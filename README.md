@@ -13,3 +13,6 @@
 **MENTOR NAME**     : NEELA SANTHOSH KUMAR
 
 #ENTER DESCRIPTION OF TASK 
+
+
+#OUTPUT OF THE CODE :![Screenshot_20250109_213015_Chrome](https://github.com/user-attachments/assets/d3636fcc-400c-4bb1-98eb-fdb10a83402c)
